@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">rteams</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="text1">Hello</string>
+    <string name="text2">Hello</string>
+    <string name="noc">Number Of Choices</string>
+    <string name="reigons">Reigons</string>
+    <string-array name="spanish">
+        <item>Ajax</item>
+        <item>AthleticoMadrid</item>
+        <item>Barcelona</item>
+        <item>RealMadrid</item>
+        <item>Valencia</item>
+        <item>ManchesterUnited</item>
+        <item>Liverpool</item>
+        <item>Jeventus</item>
+    </string-array>
+    <string-array name="africa">
+        <item>Ahly</item>
+        <item>Zamalek</item>
+        <item>WadiDegla</item>
+        <item>KafrAlShiekh</item>
+        <item>AsmantAsyut</item>
+        <item>Mansora</item>
+        <item>AlDakhliya</item>
+        <item>Tala2e3ElGiesh</item>
+    </string-array>
+    <string-array name="europe">
+        <item>PSG</item>
+        <item>Zenit</item>
+        <item>Chelsia</item>
+        <item>ManCity</item>
+        <item>RiverPlate</item>
+        <item>AcMillan</item>
+        <item>BayernMunchen</item>
+        <item>Dortmond</item>
+    </string-array>
+    <string name="strtGame">StartGame</string>
+    <string name="qGame">Quit Game</string>
+    <string name="set">Settings</string>
+</resources>
